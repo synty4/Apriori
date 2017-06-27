@@ -7,19 +7,6 @@ import java.util.Set;
 import java.util.StringTokenizer;
 
 /**
- * skeleton class for the project 1 of the LINGI2355 course.
- *
- * This class and the Dataset class are given to you as a skeleton for your implementation of the Apriori algorithm.
- * You are not obligated to use them and are free to write any class or method as long as the following requirements
- * are respected:
- *
- * Your apriori methods must take as parameters a string corresponding to the path to a valid dataset file and
- * a double corresponding to the minimum frequency.
- * You must write on the standard output (System.out) all the itemsets that are frequent in the dataset file according
- * to the minimum frequency given. Each itemset has to be printed on one line following
- * the format: [<item 1>, <item 2>, ... <item k>] (<frequency>).
- * Tip: you can use Arrays.toString(int[] a) to print the itemset.
- *
  * @author Syntyche Shimbi Amunaso
  */
 
